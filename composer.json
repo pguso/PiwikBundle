@@ -8,7 +8,7 @@
         {
             "name": "Thomas Roche",
             "email": "throche@cisco.com",
-            "homepage": "www.cisco.com"
+            "homepage": "http://cisco.com"
         }
     ],
     "require": {
@@ -16,7 +16,7 @@
         "symfony/symfony": ">=2.1",
         "guzzlehttp/guzzle": "4.*"
     },
-
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": { "CiscoSystems\\PiwikBundle": "" }
     },
