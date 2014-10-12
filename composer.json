@@ -1,5 +1,5 @@
 {
-    "name": "cisco-systems/piwik-bundle",
+    "name": "prg/piwik-bundle",
     "type": "symfony-bundle",
     "description": "Symfony bundle for querying the piwik reporting api",
     "keywords": ["reporting", "api", "piwik", "analytics"],
